@@ -1,20 +1,39 @@
-@font-face
+@font-face { 
+    font-family: 'Lato font'; 
+    src: url('../assets/lato/Lato_Black.ttf') format('truetype');
+    font-weight: normal; 
+    font-style: normal; 
+  }
+
+BODY {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #333;
+    font-family: "Lato font", sans-serif;
+}
+
 .wrap{
     width: 1020px;
+    margin: 0 auto;
 }
-.headdiv{
-    height: 50px;
+header{
+    min-height: 50px;
     background-color: #2D303A;
+}
+header .head-bottom{
+    height: 5px;
+    background-color: #323746;
 }
 .container{
 
 }
 main{
-    height: 100%;
+    min-height: 100%;
     background-color: #F06C64;
 }
 footer{
-    height: 100px;
+    min-height: 100px;
     background-color: #F2F2F2;
 }
 .first{
