@@ -1,0 +1,30 @@
+@font-face
+.wrap{
+    width: 1020px;
+}
+.headdiv{
+    height: 50px;
+    background-color: #2D303A;
+}
+.container{
+
+}
+main{
+    height: 100%;
+    background-color: #F06C64;
+}
+footer{
+    height: 100px;
+    background-color: #F2F2F2;
+}
+.first{
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.second{
+    color: #F06C64;
+}
+nav ul li a{
+    text-transform: uppercase;
+    color: #ffffff;
+}
