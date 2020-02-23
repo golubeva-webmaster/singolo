@@ -170,9 +170,10 @@ main{
 
 /* Services */
 .services{
-    min-height: 100px;
+    height: 400px;
     background-color: #F2F2F2;
     padding: 47px 39px;
+    border-bottom: 6px solid #ffffff;
 }
 .services h1{
     font-size: 30px;
