@@ -2,3 +2,27 @@
 
 flex-basis: 25%  flex-wrap: wrap
 */
+html{
+    font-size: 10px;
+}
+body{
+    font-size: 1.8rem;
+    font-family: "Lato", Verdana, sans-serif;
+    line-height: 30px;
+    color: #767e9e;
+    font-weight: 300;
+    text-align: left;
+}
+h2{
+    font-size: 3rem;
+    line-height: 18px;
+    color: #666d89;
+    font-weight: 900;
+}
+h3{
+    font-size: 1.8rem;
+    line-height: 18px;
+    color: #666d89;
+    font-weight: 900;
+    text-align: left;
+}
