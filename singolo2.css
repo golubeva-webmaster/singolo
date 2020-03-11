@@ -80,3 +80,26 @@ li{
     border: 1px solid;
     padding: 3px;
 }
+.navbar ul {
+    display: flex;
+    width: 300px;
+    margin-left: 0px;
+}
+
+.navbar ul li p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Lato";
+    border: 1px solid #666d89;
+    margin-top: 17px;
+    margin-left: -1px;
+    margin-right: 0;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    color: #767e9e;
+}
